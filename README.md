@@ -26,4 +26,4 @@
 
 ## To-do & Future Plans
 
- *Still thinking..*
+ *Still thinking...*
